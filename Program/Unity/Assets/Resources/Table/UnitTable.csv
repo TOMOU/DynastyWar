@@ -1,0 +1,12 @@
+Index,UnitName,ResourceName,UnitType,BaseGrade,BaseLevel,MaxGrade,MaxLevel,BaseHP,BaseDamage,LvGrowthHP,LvGrowthDamage,GrUpgradeHP,GrUpgradeDamage
+0,더미,dummy,0,1,1,4,20,500,50,50,5,50,5
+1,초선,chosun,1,1,1,4,20,500,50,50,5,50,5
+2,허저,huju,1,1,1,4,20,500,50,50,5,50,5
+3,황부인,hwangbuin,2,1,1,4,20,500,50,50,5,50,5
+4,장각,janggak,2,1,1,4,20,500,50,50,5,50,5
+5,제갈량,jegalryang,2,1,1,4,20,500,50,50,5,50,5
+6,조홍,johong,1,1,1,4,20,500,50,50,5,50,5
+7,조운,joun,1,1,1,4,20,500,50,50,5,50,5
+8,주유,juyu,2,1,1,4,20,500,50,50,5,50,5
+9,노숙,nosuk,1,1,1,4,20,500,50,50,5,50,5
+10,사마의,samai,2,1,1,4,20,500,50,50,5,50,5
